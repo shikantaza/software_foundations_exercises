@@ -1,0 +1,5 @@
+-Q /Users/Rajeshjayprakash/misc/References/software_foundations/slf SLF
+-Q /Users/Rajeshjayprakash/misc/References/software_foundations/lf LF
+-arg -w 
+-arg -implicit-core-hint-db,-ambiguous-paths
+
